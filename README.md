@@ -34,7 +34,8 @@ public class Izzy extends SengKiatLow{
         Izzy me = new Izzy();
         addGoals();
         currentGoal = personalGoals.get(0);
-	}
+    
+    }
 
     private void addGoals() {
         personalGoals.add(new PersonalGoal(
