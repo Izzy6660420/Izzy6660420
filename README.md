@@ -36,10 +36,14 @@ public class Izzy extends SengKiatLow{
 	}
 
     private void addGoals() {
-        personalGoals.add(new PersonalGoal("Create a 3D Game Engine in Java and make a game using said engine"));
-        personalGoals.add(new PersonalGoal("Create a mini/short game in Unity expanding on ideas I have"));
-        personalGoals.add(new PersonalGoal("Learn to use Blender and create 3D models using it"));
-        personalGoals.add(new PersonalGoal("Creating mods for games I take a liking to and supports modding"));
+        personalGoals.add(new PersonalGoal(
+            "Create a 3D Game Engine in Java and make a game using said engine"));
+        personalGoals.add(new PersonalGoal(
+            "Create a mini/short game in Unity expanding on ideas I have"));
+        personalGoals.add(new PersonalGoal(
+            "Learn to use Blender and create 3D models using it"));
+        personalGoals.add(new PersonalGoal(
+            "Creating mods for games I take a liking to and supports modding"));
     }
 }
 ```
