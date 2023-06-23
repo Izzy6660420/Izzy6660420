@@ -25,12 +25,13 @@ public class Izzy extends SengKiatLow{
     
     public Izzy() {
         personalGoals = new ArrayList<>();
+
         funFact = "Computers have to be some of the most stubborn conservatives ever, 
                     communicating solely in binaries just to make a point? Are you kidding me?";
     }
-
+    
     public static void main(String[] args) {
-		Izzy me = new Izzy();
+        Izzy me = new Izzy();
         addGoals();
         currentGoal = personalGoals.get(0);
 	}
