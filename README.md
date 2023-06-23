@@ -1,6 +1,9 @@
 <h2> Hi, my name is Izzy!  <img src="https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif" width="50" style="position:relative; top:20px"></h2>
 
-<p><em>Alumnus from <a href="https://www.mq.edu.au/">Macquarie University</a><img src="https://media.giphy.com/media/ZZl4CQE3XJY4G3RmmM/giphy.gif" width="60" style="position:relative; top:20px"></br>Current Contract Tutor at <a href="https://www.ezymathtutoring.com.au">EzyMath Tutoring</a><img src="https://media.giphy.com/media/Plb36NP1B7qU8b0gQQ/giphy.gif" width="60" style="position:relative; top:30px"></em></p>
+<p><em>Alumnus from <a href="https://www.mq.edu.au/">Macquarie University</a><img src="https://media.giphy.com/media/ZZl4CQE3XJY4G3RmmM/giphy.gif" width="60"></br>Current Contract Tutor at <a href="https://www.ezymathtutoring.com.au">EzyMath Tutoring</a><img src="https://media.giphy.com/media/Plb36NP1B7qU8b0gQQ/giphy.gif" width="60"></em></p>
+
+[![LinkedIn: Seng Kiat Low](https://img.shields.io/badge/-SengKiatLow-blue?style=flat-squared&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seng-kiat-low-708680193/)]
+(https://www.linkedin.com/in/seng-kiat-low-708680193/)
 
 
 
